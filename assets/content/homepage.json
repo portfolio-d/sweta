@@ -1,0 +1,41 @@
+{
+  "menuItems": [
+    { "label": "About Me", "icon": "account_box", "sectionId": "about-me"},
+    { "label": "Skills", "icon": "star_border", "sectionId": "skills"},
+    { "label": "Projects & Skills", "icon": "category", "sectionId": "projects"},
+    { "label": "More Info", "icon": "emoji_nature", "sectionId": "more-info"}
+  ],
+  "aboutMe": "3 years’ experience in data designing, analyzing, development and implementation of various application environment using BI Tools. Possesses good knowledge of SQL queries and database development. Good communication and interpersonal skill. Experienced in quality assurance, Quarterly Quality Reviews with managers, partners, and teams. Good in managing data and providing resources.",
+  "skills": {
+    "job": "• Strong hands on experience implementing dashboards, data visualizations, and analytics using tableau desktop and server. \n • Hands on experience in SQL reporting, development, analytics, and BI. \n • Experience in processing flow charts and data flows diagrams. \n• Ability to deliver high quality results in a challenging environment and can comfortably manage, manipulate, and summarize large quantities of data. \n•Profile data to measure quality and integrity, provide solutions to improve quality.",
+    "organisational": "• Ability to solve complex problems, strong analytical skills, and the ability to trace issues to the root source \n • Ability to deliver clean, documented, and testable code. \n • Adaptable: Accommodating to new environment and situations. Provides support even for last-minute demands and changes. \n • Time Management: Dedicated to prioritizing tasks and managing time to ensure timely deliveries. \n • Demonstrated a high-quality performance as a Quality Analyst and being able to help operations team to identify improvement areas \n • Have experience of data entry, MIS collation and providing training sessions to newly hired. \n • Exceptional presentation skills."
+  },
+  "projects": [
+    {
+      "header": "Client Risk Tolerance",
+      "body": "The objective of this project was to analyze the buying behavior of the client depending on the Risk tolerance and run a campaigning program to promote the sale of various products. The project was based on various dimensions like: Annual income, Investment objective, Investment knowledge, Returns, Tax benefits and management expenses.\n Technologies Used \n • SQL \n • Tableau"
+    },
+    {
+      "header": "Continuous Improvement Migration Project",
+      "body": "This was migration of improvement ideas from the old tool to the new tool where our team had work with collaboration with onshore partners. In This project data was received from operation team and we had to segregate, filter, analyze and migrate it to the new tool and at last to present the data to the management that which idea saved how much dollar or time."
+    },
+    {
+      "header": "HR Analytics- Attrition Model",
+      "body": ":  This was an internal project to Sun Life Financial, where we had to standardize the HR data received every month in different files and upload in the Tableau dashboard. Also, some ad hoc analysis was done as part of this project using Python, for predicting attrition (logistic model) in certain client accounts, understating the misuse of Work from home policy etc. "
+    },
+    {
+      "header": "Order to cash dashboard",
+      "body": "This project is dummy Project; it contains two phases for data management and dashboard design. In the first phase we had to process the historical data of 3yrs and make different transformations on it as requested by client. Then in second phase we had to design the Tableau dashboard on the processed data. There was also some basic regression model build in SAS based on the processed data."
+    }
+  ],
+  "moreInfo": {
+    "education": {
+      "header": "Education",
+      "content": "2012 Master of Commerce from Dr Ram Manohar Lohia University\n 2010 B.Com (Regular) from Maharaja Ganga Singh University\n"
+    },
+    "accomplishments": {
+      "header": "Accomplishments",
+      "content": "•Recipient of the Certificate of Appreciation for ‘High commitment exemplified in delivering on time with good quality’.\n•Exceptional communication and leadership skills.\n"
+    }
+  }
+}
